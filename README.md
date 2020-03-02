@@ -3,3 +3,4 @@
 
 ### 1) [Linked List](https://github.com/Ashish-012/Ds-Algo/tree/master/Linked-list)
 ### 2) [Stack](https://github.com/Ashish-012/Ds-Algo/tree/master/Stack)
+### 3) [Sorting](https://github.com/Ashish-012/Ds-Algo/tree/master/Sorting)
