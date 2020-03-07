@@ -6,16 +6,16 @@
     - beg
     - end
     - nth position
-   * Deletion 
+  * Deletion 
     - beg
     - end
     - nth position
-   * using recursion 
-   * doubley linked list
+  * Using recursion 
+  * Doubley linked list
 ### 2) [Stack](https://github.com/Ashish-012/Ds-Algo/tree/master/Stack)
-   * array implementation
-   * linked list implementation
-   * practice problems
+  * Array implementation
+  * Linked list implementation
+  * Practice problems
     - brackets balance
     - string reversal
     - linked list reversal
@@ -23,7 +23,7 @@
     - postfix evaluation
     
 ### 3) [Sorting](https://github.com/Ashish-012/Ds-Algo/tree/master/Sorting)
-   * Bubble sort
-   * Insertion sort
-   * Selection sort
-   * Merge sort
+  * Bubble sort
+  * Insertion sort
+  * Selection sort
+  * Merge sort
